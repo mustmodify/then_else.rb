@@ -62,7 +62,7 @@ which is fun, but not implemented here. Yet.
 
 Thanks
 ------
-#ruby-lang and @workmad3
+[@workmad3](https://github.com/workmad3)
 
 
 References
